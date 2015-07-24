@@ -1,6 +1,6 @@
 #!/bin/bash
 
-service bigcouch start
+service freeswitch start
 
 exec /bin/bash "$@"
 
